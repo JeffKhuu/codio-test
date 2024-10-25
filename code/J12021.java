@@ -8,5 +8,6 @@ class J12021 {
 
     System.out.println(P);
     System.out.println(Integer.compare(100, P)); 
+    // Added a comment
   }
 }
